@@ -12,10 +12,11 @@ Every aspect of the system runs online and therefore requires you to be connecte
 
 * Use your own internet connection instead of a shared connection so you have greater control
 * Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
-* Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
+
+
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that Initium Novum is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -38,7 +39,7 @@ Compatible devices:
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
@@ -58,7 +59,7 @@ You can use any printer with Windows or Linux drivers or any printer that works 
 
 Organized from lowest to highest price.
 
-* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
+* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth (Recommended)
 * Epson TM-T20 - Available with USB or Ethernet
 * Epson TM-M30 - Bluetooth
 * Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices
@@ -66,14 +67,11 @@ Organized from lowest to highest price.
 ### Other Printers
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+We do NOT recommend Star printers for use with Android. If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
 {% endhint %}
 
-* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI. 
-
-
+* Star Micronics TSP143 - Available as Bluetooth or USB or WIFI.
 
 ## Ideal Setup
 
-![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
-
+![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bzr2nv.png)

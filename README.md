@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to the CloudWaitress knowledge base. Here you will find articles to
+  Welcome to the Initium Novum knowledge base. Here you will find articles to
   help you setup and understand how our platform works. If you need assistance,
   please do not hesitate to contact us.
 ---
@@ -18,6 +18,3 @@ description: >-
 {% content-ref url="platform-information/" %}
 [platform-information](platform-information/)
 {% endcontent-ref %}
-
-
-
